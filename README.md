@@ -25,6 +25,6 @@ This project has been an incredible journey for us. It pushed us to dive deep in
 
 ## Try It Out
 
-We invite you to check out our Wedding Planner Web App by clicking [here](link-to-your-project). Feel free to provide any feedback or share your thoughts. Your support means the world to us!
+We invite you to check out our Wedding Planner Web App by clicking [here](https://srutikarlakshmi.github.io/wedding-planner/). Feel free to provide any feedback or share your thoughts. Your support means the world to us!
 
 **Happy coding!** 🌟
